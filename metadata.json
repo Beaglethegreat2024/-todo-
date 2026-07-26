@@ -1,0 +1,6 @@
+{
+  "name": "拼豆风格悬挂桌宠待办",
+  "description": "一个Mac桌面风格的拼豆待办悬挂桌宠。上传自推图片即可生成拼豆宠，完成每日待办可以获得抽奖券，装扮自推的小家、解锁各种萌趣衣服配件！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
